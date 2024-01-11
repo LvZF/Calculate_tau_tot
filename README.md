@@ -9,6 +9,6 @@ This package includes two versions for calculating optical depth: the version wi
 You can download the entire package and run it.
 ```
 cd path/Calculate_tau_tot
-python tau_diff_3paras.py
-python tau_diff_4paras.py
+python3 tau_diff_3paras.py
+python3 tau_diff_4paras.py
 ```
