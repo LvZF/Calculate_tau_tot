@@ -1,0 +1,4 @@
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+tau_diff_ngrid.npz filter=lfs diff=lfs merge=lfs -text
+tauv_model.py filter=lfs diff=lfs merge=lfs -text
+irx_tau_tot filter=lfs diff=lfs merge=lfs -text
